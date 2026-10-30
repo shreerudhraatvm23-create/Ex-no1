@@ -62,11 +62,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="720" height="285" alt="image" src="https://github.com/user-attachments/assets/e8388853-4532-4e6a-876d-3e91fa0ed651" />
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="641" height="423" alt="image" src="https://github.com/user-attachments/assets/cce2b004-0af2-4ddc-85ee-29f1a1ac0a65" />
+
 
 ## 2. SUBTRACTION
 
@@ -103,22 +104,25 @@ INT 21H
 CODE ENDS
 END
 ```
+## Manual Calculation
+
+<img width="720" height="297" alt="image" src="https://github.com/user-attachments/assets/19e0976f-d17c-4a1c-981e-58ebe0efb151" />
 
 
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1200🔢       01         12
 
-#### Manual Calculations
+|         1200                    |
 
-(Add your calculation here)
 
----
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="637" height="395" alt="sub" src="https://github.com/user-attachments/assets/983b7a39-ace2-4abb-ad1b-7ffb83b2b1b0" />
 
 ## 3. MULTIPLICATION
 
@@ -158,15 +162,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|       1200🔢       01         12
+
+|         1200                    |
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="720" height="343" alt="image" src="https://github.com/user-attachments/assets/637080f8-819b-4dec-badb-4abd7215b4c7" />
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="630" height="397" alt="mul org" src="https://github.com/user-attachments/assets/f0f941ab-af0d-4b67-b974-a7af010320e2" />
+
 
 ## 4. DIVISION
 
@@ -207,11 +216,11 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="720" height="413" alt="image" src="https://github.com/user-attachments/assets/159a2f95-b600-4ae3-aad6-38756089e660" />
 
----
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="637" height="395" alt="div" src="https://github.com/user-attachments/assets/bb011b32-1596-49c7-a603-941e65d177d9" />
 
 
 ## RESULT
